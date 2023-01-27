@@ -1,4 +1,5 @@
 # TIL
+> Today I Learned
 
 Today I Learned! 
 
@@ -9,7 +10,7 @@ _11 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [[quick start tutorial] 01. Sequential Programming](Erlang/[quick start tutorial] 01. Sequential Programming.md) - Fri Jan 27 22:09:18 2023 +0900
+- [[quick_start_tutorial]01.Sequential_Programming](Erlang/[quick_start_tutorial]01.Sequential_Programming.md) - Fri Jan 27 22:11:08 2023 +0900
 - [How_to_write_code](Erlang/How_to_write_code.md) - Fri Jan 27 22:08:58 2023 +0900
 
 ### Categories
@@ -36,7 +37,7 @@ _11 TILs and counting..._
 - [03.Funs_and_list_operations](Erlang/03.Funs_and_list_operations.md)
 - [04.Concurrent_programming](Erlang/04.Concurrent_programming.md)
 - [How_to_write_code](Erlang/How_to_write_code.md)
-- [[quick start tutorial] 01. Sequential Programming](Erlang/[quick start tutorial] 01. Sequential Programming.md)
+- [[quick_start_tutorial]01.Sequential_Programming](Erlang/[quick_start_tutorial]01.Sequential_Programming.md)
 
 ### [Troubleshooting](#Troubleshooting)
 - [Redis](Troubleshooting/Redis.md)
