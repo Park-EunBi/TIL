@@ -4,14 +4,14 @@
 Today I Learned! 
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [02.Sequential_Erlang](Erlang/02.Sequential_Erlang.md) - Fri Jan 27 22:07:55 2023 +0900
 - [01.Introduction](Erlang/01.Introduction.md) - Fri Jan 27 22:07:16 2023 +0900
-- [Tail-recursive](Algorithm/Tail-recursive.md) - Thu Jan 26 21:39:46 2023 +0900
 
 ### Categories
 
@@ -33,6 +33,7 @@ _6 TILs and counting..._
 
 ### [Erlang](#Erlang)
 - [01.Introduction](Erlang/01.Introduction.md)
+- [02.Sequential_Erlang](Erlang/02.Sequential_Erlang.md)
 
 ### [Troubleshooting](#Troubleshooting)
 - [Redis](Troubleshooting/Redis.md)
