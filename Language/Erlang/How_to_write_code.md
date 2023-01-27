@@ -1,3 +1,5 @@
+# How_to_write_code
+
 ## 1. Erlang shell
 
 `erl` 입력해서 시작하고, 코드 작성
