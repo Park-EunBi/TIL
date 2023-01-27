@@ -1,3 +1,5 @@
+# [quick start tutorial] 01. Sequential Programming
+
 [Erlang -- Sequential Programming](https://www.erlang.org/doc/getting_started/seq_prog.html)
 
 ## atom
