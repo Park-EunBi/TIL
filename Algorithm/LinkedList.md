@@ -1,4 +1,4 @@
-LinkedList
+# LinkedList
 # 연결 리스트
 
 ## 연결 리스트의 개념
