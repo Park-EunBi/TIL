@@ -4,14 +4,14 @@
 Today I Learned! 
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Learn_Git](Git/Learn_Git.md) - Mon Jan 30 19:00:12 2023 +0900
 - [[quick_start_tutorial]01.Sequential_Programming](Erlang/[quick_start_tutorial]01.Sequential_Programming.md) - Fri Jan 27 22:11:08 2023 +0900
-- [How_to_write_code](Erlang/How_to_write_code.md) - Fri Jan 27 22:08:58 2023 +0900
 
 ### Categories
 
@@ -19,6 +19,7 @@ _11 TILs and counting..._
 - [DataVisualization](#DataVisualization)
 - [Database](#Database)
 - [Erlang](#Erlang)
+- [Git](#Git)
 - [Troubleshooting](#Troubleshooting)
 
 ### [Algorithm](#Algorithm)
@@ -38,6 +39,9 @@ _11 TILs and counting..._
 - [04.Concurrent_programming](Erlang/04.Concurrent_programming.md)
 - [How_to_write_code](Erlang/How_to_write_code.md)
 - [[quick_start_tutorial]01.Sequential_Programming](Erlang/[quick_start_tutorial]01.Sequential_Programming.md)
+
+### [Git](#Git)
+- [Learn_Git](Git/Learn_Git.md)
 
 ### [Troubleshooting](#Troubleshooting)
 - [Redis](Troubleshooting/Redis.md)
