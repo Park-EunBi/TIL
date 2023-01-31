@@ -4,14 +4,14 @@
 Today I Learned! 
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [NR_leg_setup](network/NR_leg_setup.md) - Tue Jan 31 19:07:31 2023 +0900
 - [Learn_Git](Git/Learn_Git.md) - Mon Jan 30 19:00:12 2023 +0900
-- [[quick_start_tutorial]01.Sequential_Programming](Erlang/[quick_start_tutorial]01.Sequential_Programming.md) - Fri Jan 27 22:11:08 2023 +0900
 
 ### Categories
 
@@ -21,6 +21,7 @@ _12 TILs and counting..._
 - [Erlang](#Erlang)
 - [Git](#Git)
 - [Troubleshooting](#Troubleshooting)
+- [network](#network)
 
 ### [Algorithm](#Algorithm)
 - [LinkedList](Algorithm/LinkedList.md)
@@ -45,6 +46,9 @@ _12 TILs and counting..._
 
 ### [Troubleshooting](#Troubleshooting)
 - [Redis](Troubleshooting/Redis.md)
+
+### [network](#network)
+- [NR_leg_setup](network/NR_leg_setup.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
