@@ -1,4 +1,4 @@
-# 용어정리
+# term
 
 - [용어 정리](#-----)
   * [container](#container)
