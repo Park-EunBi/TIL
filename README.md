@@ -36,7 +36,7 @@ _14 TILs and counting..._
 - [Redis](Database/Redis.md)
 
 ### [Docker & Kubernetes](#Docker & Kubernetes)
-- [용어정리](Docker & Kubernetes/용어정리.md)
+- [term](Docker & Kubernetes/term.md)
 
 ### [Erlang](#Erlang)
 - [01.Introduction](Erlang/01.Introduction.md)
