@@ -5,7 +5,7 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _15 TILs and counting..._
 
 ### [Git](#Git)
 - [Learn_Git](Git/Learn_Git.md)
+- [cherry-pick.md](Git/cherry-pick.md)
 - [git_command](Git/git_command.md)
 
 ### [Troubleshooting](#Troubleshooting)
