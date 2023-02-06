@@ -1,4 +1,4 @@
-# explain the k8s architecture and its building blocks
+# explain_the_k8s_architecture_and_its_building_blocks
 
 - [Node Components](#node-components)
 - [Control Plane](#control-plane)
