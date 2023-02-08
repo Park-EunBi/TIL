@@ -5,7 +5,7 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _18 TILs and counting..._
 - [Redis](Database/Redis.md)
 
 ### [Docker&Kubernetes](#Docker&Kubernetes)
+- [describe_the_deployment_and_statefulSet_in_kubernetes](Docker&Kubernetes/describe_the_deployment_and_statefulSet_in_kubernetes.md)
 - [describe_the_pod_and_its_networking](Docker&Kubernetes/describe_the_pod_and_its_networking.md)
 - [explain_the_k8s_architecture_and_its_building_blocks](Docker&Kubernetes/explain_the_k8s_architecture_and_its_building_blocks.md)
 - [term](Docker&Kubernetes/term.md)
