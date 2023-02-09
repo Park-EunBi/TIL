@@ -5,7 +5,7 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _19 TILs and counting..._
 ### Categories
 
 - [Algorithm](#Algorithm)
+- [DataStructure](#DataStructure)
 - [DataVisualization](#DataVisualization)
 - [Database](#Database)
 - [Docker&Kubernetes](#Docker&Kubernetes)
@@ -28,6 +29,9 @@ _19 TILs and counting..._
 ### [Algorithm](#Algorithm)
 - [LinkedList](Algorithm/LinkedList.md)
 - [Tail-recursive](Algorithm/Tail-recursive.md)
+
+### [DataStructure](#DataStructure)
+- [01.Understanding_Data_Structures_and_Algorithms](DataStructure/01.Understanding_Data_Structures_and_Algorithms.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
