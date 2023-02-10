@@ -5,14 +5,14 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [02.data_structure_basic](DataStructure/02.data_structure_basic.md) - Fri Feb 10 22:53:38 2023 +0900
 - [NR_leg_setup](network/NR_leg_setup.md) - Tue Jan 31 19:07:31 2023 +0900
-- [Learn_Git](Git/Learn_Git.md) - Mon Jan 30 19:00:12 2023 +0900
 
 ### Categories
 
@@ -32,6 +32,7 @@ _20 TILs and counting..._
 
 ### [DataStructure](#DataStructure)
 - [01.Understanding_Data_Structures_and_Algorithms](DataStructure/01.Understanding_Data_Structures_and_Algorithms.md)
+- [02.data_structure_basic](DataStructure/02.data_structure_basic.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
