@@ -11,7 +11,7 @@ _22 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [03.LinkedList.md](DataStructure/03.LinkedList.md) - Mon Feb 13 21:20:31 2023 +0900
+- [03.LinkedList](DataStructure/03.LinkedList.md) - Mon Feb 13 21:20:31 2023 +0900
 - [02.data_structure_basic](DataStructure/02.data_structure_basic.md) - Fri Feb 10 22:53:38 2023 +0900
 
 ### Categories
@@ -33,7 +33,7 @@ _22 TILs and counting..._
 ### [DataStructure](#DataStructure)
 - [01.Understanding_Data_Structures_and_Algorithms](DataStructure/01.Understanding_Data_Structures_and_Algorithms.md)
 - [02.data_structure_basic](DataStructure/02.data_structure_basic.md)
-- [03.LinkedList.md](DataStructure/03.LinkedList.md)
+- [03.LinkedList](DataStructure/03.LinkedList.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
