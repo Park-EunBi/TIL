@@ -5,14 +5,14 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [# 추상 자료형 (ADT)의 이해](DataStructure/03.LinkedList.md) - Mon Feb 13 21:20:31 2023 +0900
 - [02.data_structure_basic](DataStructure/02.data_structure_basic.md) - Fri Feb 10 22:53:38 2023 +0900
-- [NR_leg_setup](network/NR_leg_setup.md) - Tue Jan 31 19:07:31 2023 +0900
 
 ### Categories
 
@@ -33,6 +33,7 @@ _21 TILs and counting..._
 ### [DataStructure](#DataStructure)
 - [01.Understanding_Data_Structures_and_Algorithms](DataStructure/01.Understanding_Data_Structures_and_Algorithms.md)
 - [02.data_structure_basic](DataStructure/02.data_structure_basic.md)
+- [# 추상 자료형 (ADT)의 이해](DataStructure/03.LinkedList.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
