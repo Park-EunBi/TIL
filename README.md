@@ -11,7 +11,7 @@ _28 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [# 트리의 접근과 이해](DataStructure/09.Tree.md) - Wed Feb 22 21:30:25 2023 +0900
+- [09.Tree](DataStructure/09.Tree.md) - Wed Feb 22 21:30:25 2023 +0900
 - [08.Queue](DataStructure/08.Queue.md) - Tue Feb 21 21:06:39 2023 +0900
 
 ### Categories
@@ -39,7 +39,7 @@ _28 TILs and counting..._
 - [06.Stack](DataStructure/06.Stack.md)
 - [07.Stack(2)](DataStructure/07.Stack(2).md)
 - [08.Queue](DataStructure/08.Queue.md)
-- [# 트리의 접근과 이해](DataStructure/09.Tree.md)
+- [09.Tree](DataStructure/09.Tree.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
