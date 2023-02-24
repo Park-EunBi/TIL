@@ -5,14 +5,14 @@
 A collection of concrete writeups of small things I learn daily.
 
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [11.Priority_Queue_and_Heap](DataStructure/11.Priority_Queue_and_Heap.md) - Fri Feb 24 23:44:14 2023 +0900
 - [10.Queue](DataStructure/10.Queue.md) - Thu Feb 23 22:23:36 2023 +0900
-- [09.Tree](DataStructure/09.Tree.md) - Wed Feb 22 21:30:25 2023 +0900
 
 ### Categories
 
@@ -41,6 +41,7 @@ _29 TILs and counting..._
 - [08.Queue](DataStructure/08.Queue.md)
 - [09.Tree](DataStructure/09.Tree.md)
 - [10.Queue](DataStructure/10.Queue.md)
+- [11.Priority_Queue_and_Heap](DataStructure/11.Priority_Queue_and_Heap.md)
 
 ### [DataVisualization](#DataVisualization)
 - [D3.js](DataVisualization/D3.js.md)
